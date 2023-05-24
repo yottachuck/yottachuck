@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yottachuck
+- 👋 Hi, I’m @yottachuck.  VP of Software @yottanav.
 - 👀 I’m interested in Software Frameworks, Machine Learning OPs, GPS / Navigation, Sensor Fusion, Embedded Control Systems, DSP
 - 🌱 I’m currently learning how to scale SAAS.
 - 💞️ I’m looking to collaborate on anything GPS related, space / satellite firmware, robotics, driver development.
