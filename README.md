@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything GPS related, space / satellite firmware, robotics, driver development.
 - 📫 How to reach me: 
   - Official inquiries through <support@yottanav.com> with title containing "\[YottaChuck:Github\]"
-  - Personal inquiries / contracting via LinkedIn    
+  - Personal inquiries via LinkedIn    
